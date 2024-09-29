@@ -2,7 +2,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DesafioPOO.Models
 {
-    // TODO: Herdar da classe "Smartphone"
     public class Nokia : Smartphone
     {
 
